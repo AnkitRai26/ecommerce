@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://kajal-ecomm.netlify.app/](https://kajal-ecomm.netlify.app/) to view it in your browser
+open (https://ankit-ecommerce.netlify.app/) to view it in your browser
 
 ## Features
 
